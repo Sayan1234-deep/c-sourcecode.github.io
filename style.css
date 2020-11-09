@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.mydiv{
+    width: 100%;
+    height: 15vh;
+    border: 2px solid black;
+    background-color: black;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    padding-top: 9px;
+    
+}
+
+.main{
+    /* height: 60vh; */
+    cursor: grab;
+    background-color: white;
+
+
+}
+.main h2{
+    text-align: center;
+    margin: 9px;
+
+
+}
+.helloworld{
+    width: 80%;
+    height: 70vh;
+    overflow: auto;
+    margin: 9px;
+    background-color: black;
+    color: wheat;
+    padding-left:9px ;
+}
+
+.factorial{
+    width: 80%;
+    height: 40vh;
+    margin: 9px;
+    overflow: auto;
+    margin: 9px;
+    background-color: black;
+    color: wheat;
+    padding-left:9px ;
+
+}
+
+.triangle{
+    width: 80%;
+    height: 70vh;
+    margin: 9px;
+    overflow: auto;
+    margin: 9px;
+    background-color: black;
+    color: wheat;
+    padding-left:9px ;
+
+}
+
+.scale{
+    width: 80%;
+    height: 70vh;
+    margin: 9px;
+    overflow: auto;
+    margin: 9px;
+    background-color: black;
+    color: wheat;
+    padding-left:9px ;
+
+}
+
+img{
+    width: 100px;
+    height:90px;
+    float: right;
+    padding-top: 0px;
+    margin-top: 0px;;
+}
+
+h2{
+    color: brown;
+
+}
+
+.two{
+    width: 80%;
+    height: 70vh;
+    margin: 9px;
+    overflow: auto;
+    margin: 9px;
+    background-color: black;
+    color: wheat;
+    padding-left:9px ;
+
+
+}
+
+.vowel{
+    width: 80%;
+    height: 70vh;
+    margin: 9px;
+    overflow: auto;
+    margin: 9px;
+    background-color: black;
+    color: wheat;
+    padding-left:9px ;
+
+}
